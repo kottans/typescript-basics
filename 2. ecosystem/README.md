@@ -1,5 +1,4 @@
-# TS ecosystem
-#### architectural overview, tsconfig, ts-check, ts-ignore
+# TS ecosystem: architectural overview, tsconfig, ts-check, ts-ignore
 
 ## Plan
 
