@@ -1,8 +1,6 @@
 # TS ecosystem: architectural overview, tsconfig, ts-check, ts-ignore
 
-## Plan
-
-### Architectural Overview
+## Architectural Overview
 
 Give short overview:
 - we need to compile TS - so we have compiler, which will parse files, resolve imports, build AST, etc.
@@ -20,7 +18,7 @@ Give short overview:
 - [ ] Write basic Language server plugin - https://github.com/microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin
 - [ ] Consider finding of interesting example of plugin - emojis, etc/
 
-### tsconfig
+## tsconfig
 
 - Tell in human language part from TS doc
 - Tell about `jsconfig`
@@ -31,7 +29,7 @@ Give short overview:
 1. https://code.visualstudio.com/docs/languages/jsconfig
 1. https://code.visualstudio.com/docs/typescript/typescript-tutorial#_tsconfigjson
 
-### ts-check, ts-ignore, etc.
+## ts-check, ts-ignore, etc.
 
 Just tell about them and show examples
 
