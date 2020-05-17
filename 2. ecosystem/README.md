@@ -3,8 +3,8 @@
 ## Architectural Overview
 
 Give short overview:
-- we need to compile TS - so we have compiler, which will parse files, resolve imports, build AST, etc.
-- we need separate entity for features in editor like code highlighting, autosuggestions, etc. - language service
+- we need to compile TS - so we have compiler, which will parse files, resolve imports, build AST, etc. TLDR about compilation process
+- we need separate entity for features in editor like code highlighting, autosuggestions, etc. - language service. Tell, that IDEA uses their own service for this features
 - different consumers of TS should have a possibility to work with typescript, not only IDE and editors but developers also - `tsc` CLI
 
 #### Links:
@@ -15,6 +15,7 @@ Give short overview:
 1. Both TS and Flow use [language server protocol](https://github.com/Microsoft/language-server-protocol/)
 
 #### TODO
+- [ ] Find an article or video from guy from IDEA where he tells about their service in WebStorm
 - [ ] Write basic Language server plugin - https://github.com/microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin
 - [ ] Consider finding of interesting example of plugin - emojis, etc/
 
