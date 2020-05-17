@@ -16,6 +16,10 @@ Give short overview:
 1. Flow language server is somewhere inside of its [core](https://github.com/facebook/flow)
 1. Both TS and Flow use [language server protocol](https://github.com/Microsoft/language-server-protocol/)
 
+#### TODO
+- [ ] Write basic Language server plugin - https://github.com/microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin
+- [ ] Consider finding of interesting example of plugin - emojis, etc/
+
 ### tsconfig
 
 - Tell in human language part from TS doc
@@ -30,5 +34,4 @@ Give short overview:
 ### ts-check, ts-ignore, etc.
 
 Just tell about them and show examples
-
 
