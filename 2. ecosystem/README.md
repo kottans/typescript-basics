@@ -19,7 +19,7 @@ Give short overview:
 - [ ] Write basic Language server plugin - https://github.com/microsoft/TypeScript/wiki/Writing-a-Language-Service-Plugin
 - [ ] Consider finding of interesting example of plugin - emojis, etc/
 
-## tsconfig
+## `tsconfig`
 
 - Tell in human language part from TS doc
 - Tell about `jsconfig`
@@ -29,6 +29,12 @@ Give short overview:
 1. https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
 1. https://code.visualstudio.com/docs/languages/jsconfig
 1. https://code.visualstudio.com/docs/typescript/typescript-tutorial#_tsconfigjson
+
+## `.tsbuildinfo`
+
+#### Links
+
+1. https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-4.html
 
 ## ts-check, ts-ignore, etc.
 
