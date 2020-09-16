@@ -10,6 +10,7 @@ Give short overview:
 #### Links:
 
 1. [Architectural Overview](https://github.com/microsoft/TypeScript/wiki/Architectural-Overview)
+1. [Modern Compiler Overview](https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction)
 1. [tsserver](https://github.com/microsoft/TypeScript/wiki/Standalone-Server-%28tsserver%29)
 1. Flow language server is somewhere inside of its [core](https://github.com/facebook/flow)
 1. Both TS and Flow use [language server protocol](https://github.com/Microsoft/language-server-protocol/)
